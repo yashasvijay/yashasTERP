@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>Sample Page for Deployment on Render</title></head>
+<body>
+    <h1>Name: Yashas Vijay</h1>
+    <p><strong>GitHub Location:</strong> <a href="https://github.com/yashasvijay/yashasTERP">GitHub Link</a></p>
+    <p><strong>Render Location:</strong> <a href="https://yashasterp.onrender.com/">Render Home</a></p>
+
+    <hr>
+    <h3>Endpoints</h3>
+    <ul>
+        <li><strong>Clearing Database Movies:</strong> <a href="https://yashasterp.onrender.com/clearCollection">Clear</a></li>
+        <li><strong>Inserting Movies:</strong> <a href="https://yashasterp.onrender.com/insertMovies">Insert</a></li>
+        <li><strong>List Movies:</strong> <a href="https://yashasterp.onrender.com/listMovies">List</a></li>
+    </ul>
+</body>
+</html>
